@@ -407,5 +407,6 @@
       "answer_path": "answers/v17.json",
       "source_filename": "9588557-uhd_4096_2160_25fps.mp4"
     }
-  ]
+  ],
+  "keyword_policy": "관찰된 대상·행동·배경의 유의어와 표현 변형을 같은 keywords 배열에 추가했습니다. 공백·대소문자·한글 정규화 후 같은 표현은 중복 추가하지 않았습니다. 팀 검수 전 초안입니다."
 }
